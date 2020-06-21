@@ -1,6 +1,5 @@
 $(document).ready(function() {
     $('.loader-wrapper').delay(2000).hide();
-
     $('.header').height($(window).height());
     $("#cwis").hide();
     $("#covid").hide();
